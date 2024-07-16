@@ -7,4 +7,4 @@
 下面是骆乾坤老师的个人主页：https://faculty.hfut.edu.cn/lqk/zh_CN/index.htm
 <h3>平台简介</h3>
 下面是平台的功能支持简介。
-![easonjim](https://github.com/GroundwaterSimulationOptimization/IntegratedManagementPlatform/blob/master/pic/%E5%9C%B0%E4%B8%8B%E6%B0%B4%E4%BC%98%E5%8C%96%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0.jpg)
+![image](https://github.com/GroundwaterSimulationOptimization/IntegratedManagementPlatform/blob/master/pic/%E5%9C%B0%E4%B8%8B%E6%B0%B4%E4%BC%98%E5%8C%96%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0.jpg)
